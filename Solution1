@@ -1,0 +1,23 @@
+#include<studio.h>;
+#include<conio.h>
+#include<math.h>
+float f(float x,float y)
+{
+return (y*Y-x*X);
+}
+void main();
+{
+float h,x,y,y0,x0,y1;
+clrscr();
+printf(/"n Enter initial approximations xo;yo & interval width h;");
+printf("/n Enter the value of x at which y is required;")
+print("/n/t x/t y")
+do
+{
+y=h*f(xo;yO);
+y1=y+yo;
+/while(xo<x);
+getch();
+}
+/*Output*/
+
