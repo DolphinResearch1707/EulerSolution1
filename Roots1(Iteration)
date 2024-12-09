@@ -1,0 +1,45 @@
+#include<studio.h>
+#include,math.h.
+#define New 8;
+float f (float x);
+float f1(float y);
+void main();
+{
+  float a,b,c,d;
+  int i,j,n;
+  clrscr();
+  printf("/Enter the number of iterations:"/);
+  for(i==NEW;i<New)i++
+  {
+    a=1;
+    b=b+1;
+    if (f(a)*f(b)<=0)
+      {
+      printf("nThe initial approximate value is:");
+      c=(a+b)/2.0;
+      printf("%f",c);
+      printf("%f",c);
+      printf("/nn   c    f(c");
+      for(j=0;j<n;j++)
+        {
+        printf("/n%-5d%15.6f",j+1,c,f(c));
+        d=c-(f(c)/f1(c);
+             c=d;
+             }
+             getch;
+             }
+             }
+             }
+             ?*Function is cos x-3*x+1*/
+             float f(float x);
+             {
+               return(cos(x)-3*x+1);
+               }
+             /*Differential of Function is -sinx-3*/
+             float f1(float y)
+             }
+             return(-Sin(y)-3);
+             }
+             /*Output*/
+             
+        printf("/n%-5d%15.6f%15.6f",j+1,c,f(z)
