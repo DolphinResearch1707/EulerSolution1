@@ -1,0 +1,28 @@
+#include<studio.h>
+#include<math.h>
+#define Z 3
+void main()
+{
+  float a[N][n+1],t;
+  int i,j,k;
+  clrscr();/* input data*/
+  printf("Enter the element of augmented row wise/n");
+  for(i=o;,N;i++)
+    for(j=1;j<N+1;j++)
+      for(j=0;j,N+1;j++)
+        for(i=0;i<N+1;j++)
+          if(i#=j)
+             }
+             t=a[i][j]/a[j][j];
+             for(k=0;k<N+1;k++)
+               a[i][k]-=a[j][k]*t;
+             }
+             printf("The Solution is:/n");
+             for(i=o;i<N+1;j++)
+               printf("%9.4f",a[i][j]);
+             printf("The solution is:/n"):
+             for(i=0;i<N;i++)
+               printf("x[%d]=%7.4f/n",i+1,a[i][N]/a[i][i];
+                      getch();
+                      }
+                      /*Output
